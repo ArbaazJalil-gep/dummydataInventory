@@ -1,4 +1,4 @@
- "TransferType": [{
+ [{
         "EntityDetailCode": 5506,
         "EntityId": 2,
         "EntityCode": "a1",
@@ -8,4 +8,4 @@
         "EntityId": 3,
         "EntityCode": "abc",
         "EntityDisplayName": "xyz"
-      }]
+      }] 
