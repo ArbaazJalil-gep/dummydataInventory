@@ -1,11 +1,11 @@
  [{
-        "EntityDetailCode": 5506,
-        "EntityId": 2,
+        "EntityDetailCode": "5506",
+        "EntityId": "2",
         "EntityCode": "a1",
         "EntityDisplayName": "a2"
       },{
-        "EntityDetailCode": 1002,
-        "EntityId": 3,
+        "EntityDetailCode": "1002",
+        "EntityId": "3",
         "EntityCode": "abc",
         "EntityDisplayName": "xyz"
       }] 
