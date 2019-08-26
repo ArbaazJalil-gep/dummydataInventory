@@ -1,11 +1,22 @@
- [{
-        "EntityDetailCode": "5506",
-        "EntityId": "2",
-        "EntityCode": "a1",
-        "EntityDisplayName": "a2"
-      },{
-        "EntityDetailCode": "1002",
-        "EntityId": "3",
-        "EntityCode": "abc",
-        "EntityDisplayName": "xyz"
-      }] 
+{
+    "glossary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+                "GlossEntry": {
+                    "ID": "SGML",
+					"SortAs": "SGML",
+					"GlossTerm": "Standard Generalized Markup Language",
+					"Acronym": "SGML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+						"GlossSeeAlso": ["GML", "XML"]
+                    },
+					"GlossSee": "markup"
+                }
+            }
+        }
+    }
+}
